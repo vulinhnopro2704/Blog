@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Blog, first NodeJS Website, SSR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vulinhnopro2704/Blog.git"
+  },
+  "keywords": [
+    "Linh",
+    "Blog",
+    "NodeJS",
+    "Website",
+    "SSR"
+  ],
+  "author": "Vũ Linh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vulinhnopro2704/Blog/issues"
+  },
+  "homepage": "https://github.com/vulinhnopro2704/Blog#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
